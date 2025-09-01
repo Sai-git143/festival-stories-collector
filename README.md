@@ -1,4 +1,4 @@
-# మన ఆటలు - Mana Aatalu
+# Festival Story Collector
 
 
 
